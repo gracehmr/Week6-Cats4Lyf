@@ -1,0 +1,16 @@
+.cartWrapper {
+    background-color: #C99E5E;
+    width: 15%;
+    display: inline;
+    z-index: 1;
+    border: #664a2073 1px solid;
+}
+
+.yourCart {
+    text-align: center;
+    color: white;
+}
+
+.cartList li {
+    color: white;
+}
